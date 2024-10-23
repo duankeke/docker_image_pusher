@@ -1,1 +1,2 @@
 centos:centos7.9.2009
+--platform=linux/arm64/v8
