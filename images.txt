@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 centos:centos7.9.2009 
+qinchz/dm8-arm64:latest
