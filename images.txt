@@ -1,1 +1,1 @@
-qinchz/dm8-arm64:latest
+--platform=linux/arm64 canvas1996/datax-web:2.1.2
