@@ -1,1 +1,1 @@
-odoo:18.0
+m1k1o/neko:firefox
