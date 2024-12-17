@@ -1,1 +1,3 @@
-m1k1o/neko:chromium
+frappe/erpnext:v15.45.5
+mariadb:10.6
+redis:6.2-alpine:q:
