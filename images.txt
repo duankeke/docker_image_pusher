@@ -1,3 +1,1 @@
-frappe/erpnext:v15.45.5
-mariadb:10.6
-redis:6.2-alpine
+lvxj11/erpnext:latest
