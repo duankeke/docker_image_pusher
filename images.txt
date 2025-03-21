@@ -1,1 +1,1 @@
-lvxj11/erpnext:latest
+dolibarr/dolibarr:latest
