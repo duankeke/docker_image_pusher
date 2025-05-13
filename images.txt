@@ -1,1 +1,1 @@
-minio/minio:latest
+erpnext:v15.60.2
