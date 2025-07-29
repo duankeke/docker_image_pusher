@@ -1,1 +1,1 @@
-frappe/erpnext:v15.60.2
+mysql:8.0
